@@ -1,0 +1,188 @@
+{
+  "appStoreURL" : "https://apps.apple.com/us/app/ship-log/id6765871950?uo=4",
+  "iconURL" : "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/a0/c7/77/a0c77778-2547-7dca-44ad-03629e7dd36a/AppIcon-0-0-1x_U007epad-0-1-sRGB-85-220.png/512x512bb.jpg",
+  "liveVersion" : "2026.06.15",
+  "name" : "Ship Log",
+  "schemaVersion" : 1,
+  "updatedAt" : "2026-09-02T17:19:49Z",
+  "versions" : [
+    {
+      "completedCount" : 0,
+      "items" : [
+        {
+          "category" : "Fixes & Improvements",
+          "completed" : false,
+          "title" : "Cloud sync"
+        }
+      ],
+      "number" : "2026.09.10",
+      "status" : "active",
+      "totalCount" : 1
+    },
+    {
+      "completedCount" : 5,
+      "items" : [
+        {
+          "category" : "Fixes & Improvements",
+          "completed" : true,
+          "title" : "Replace notes inside items, with the ability to attach images"
+        },
+        {
+          "category" : "New Features",
+          "completed" : true,
+          "title" : "Add option to quickly copy AppStore link from the app info screen"
+        },
+        {
+          "category" : "New Features",
+          "completed" : true,
+          "title" : "Bump app to 2026.06.15"
+        },
+        {
+          "category" : "New Features",
+          "completed" : true,
+          "title" : "Add long press to copy text of item from the main app list so you don’t have to go into editing mode to copy the text"
+        },
+        {
+          "category" : "Bug Fixes",
+          "completed" : true,
+          "title" : "When sharing a version and copying its content, the text is pasted twice?"
+        }
+      ],
+      "number" : "2026.06.15",
+      "status" : "shipped",
+      "totalCount" : 5
+    },
+    {
+      "completedCount" : 2,
+      "items" : [
+        {
+          "category" : "New Features",
+          "completed" : true,
+          "title" : "Remove the coloured dots"
+        },
+        {
+          "category" : "Bug Fixes",
+          "completed" : true,
+          "title" : "AppStore data not consistently coming through"
+        }
+      ],
+      "number" : "2026.06.02",
+      "status" : "shipped",
+      "totalCount" : 2
+    },
+    {
+      "completedCount" : 1,
+      "items" : [
+        {
+          "category" : "New Features",
+          "completed" : true,
+          "title" : "Add a section with no version that can host “future ideas” - add an option to move future ideas into one of the active (not shipped) versions - if no version exists, prompt the creation of a new version"
+        }
+      ],
+      "number" : "2026.05.30",
+      "status" : "shipped",
+      "totalCount" : 1
+    },
+    {
+      "completedCount" : 3,
+      "items" : [
+        {
+          "category" : "Fixes & Improvements",
+          "completed" : true,
+          "title" : "Moved shipped versions at the very bottom of the list - replaced the share/edit button with the “Shipped” button"
+        },
+        {
+          "category" : "Fixes & Improvements",
+          "completed" : true,
+          "title" : "Shipped version are now listed at the bottom of each app page"
+        },
+        {
+          "category" : "New Features",
+          "completed" : true,
+          "title" : "Pull to refresh iCloud inside each app page"
+        }
+      ],
+      "number" : "2026.05.05",
+      "status" : "shipped",
+      "totalCount" : 3
+    },
+    {
+      "completedCount" : 14,
+      "items" : [
+        {
+          "category" : "Bug Fixes",
+          "completed" : true,
+          "title" : "“i” button to immediately open the edit app screen rather than ask for confirmation"
+        },
+        {
+          "category" : "Bug Fixes",
+          "completed" : true,
+          "title" : "Title of items to be a text area like the notes field for better text handling"
+        },
+        {
+          "category" : "Fixes & Improvements",
+          "completed" : true,
+          "title" : "Remove the small plus button above each version to add a new item"
+        },
+        {
+          "category" : "Fixes & Improvements",
+          "completed" : true,
+          "title" : "Change icons for version items to emoji"
+        },
+        {
+          "category" : "New Features",
+          "completed" : true,
+          "title" : "Add iCloud sync"
+        },
+        {
+          "category" : "New Features",
+          "completed" : true,
+          "title" : "Make the mark as shipped check mark bigger and with text label"
+        },
+        {
+          "category" : "Fixes & Improvements",
+          "completed" : true,
+          "title" : "Change icon"
+        },
+        {
+          "category" : "New Features",
+          "completed" : true,
+          "title" : "Move completed items into an accordion collapsed by default"
+        },
+        {
+          "category" : "New Features",
+          "completed" : true,
+          "title" : "Mac compatibility"
+        },
+        {
+          "category" : "New Features",
+          "completed" : true,
+          "title" : "Add an option to share pre formatted change log for AppStore connect, separating lists based on features (New Features) / fixes (Fixes & Improvements) / bug (Bug Fixes)"
+        },
+        {
+          "category" : "New Features",
+          "completed" : true,
+          "title" : "Add options to share a version online that keeps in sync with the changes made via the app"
+        },
+        {
+          "category" : "Fixes & Improvements",
+          "completed" : true,
+          "title" : "Move the ship it button underneath the list of each version - full width"
+        },
+        {
+          "category" : "New Features",
+          "completed" : true,
+          "title" : "Add option to rename a version - edit button next to the share button"
+        },
+        {
+          "category" : "Fixes & Improvements",
+          "completed" : true,
+          "title" : "Remove cloudflare sharing - move to public iCloud"
+        }
+      ],
+      "number" : "2026.05.04",
+      "status" : "shipped",
+      "totalCount" : 14
+    }
+  ]
+}
