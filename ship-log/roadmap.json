@@ -7,20 +7,20 @@
   "liveVersion" : "2026.06.15",
   "name" : "Ship Log",
   "schemaVersion" : 1,
-  "updatedAt" : "2026-09-02T17:22:52Z",
+  "updatedAt" : "2026-09-02T17:24:41Z",
   "versions" : [
     {
-      "completedCount" : 1,
+      "completedCount" : 2,
       "items" : [
-        {
-          "category" : "New Features",
-          "completed" : false,
-          "title" : "Allows creation of public GitHub pages for publishing each app Roadmap"
-        },
         {
           "category" : "Fixes & Improvements",
           "completed" : true,
           "title" : "Cloud sync"
+        },
+        {
+          "category" : "New Features",
+          "completed" : true,
+          "title" : "Allows creation of public GitHub pages for publishing each app Roadmap"
         }
       ],
       "number" : "2026.09.10",
