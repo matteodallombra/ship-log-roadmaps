@@ -7,14 +7,14 @@
   "liveVersion" : "2026.06.15",
   "name" : "Ship Log",
   "schemaVersion" : 1,
-  "updatedAt" : "2026-09-02T17:21:04Z",
+  "updatedAt" : "2026-09-02T17:21:54Z",
   "versions" : [
     {
-      "completedCount" : 0,
+      "completedCount" : 1,
       "items" : [
         {
           "category" : "Fixes & Improvements",
-          "completed" : false,
+          "completed" : true,
           "title" : "Cloud sync"
         }
       ],
