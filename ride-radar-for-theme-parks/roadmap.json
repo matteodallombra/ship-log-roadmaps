@@ -1,0 +1,535 @@
+{
+  "appStoreURL" : "https://apps.apple.com/gb/app/ride-radar-for-theme-parks/id6756741518?uo=4",
+  "iconURL" : "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/d3/43/cd/d343cdd3-f7c9-55cc-df08-a7925086de3b/AppIcon-0-0-1x_U007epad-0-1-0-sRGB-85-220.png/512x512bb.jpg",
+  "liveVersion" : "2026.08.22",
+  "name" : "Ride Radar for Theme Parks",
+  "schemaVersion" : 1,
+  "updatedAt" : "2026-09-02T17:24:35Z",
+  "versions" : [
+    {
+      "completedCount" : 0,
+      "items" : [
+        {
+          "category" : "Fixes & Improvements",
+          "completed" : false,
+          "title" : "Restaurant zoom in on iPad"
+        }
+      ],
+      "number" : "2026.09.10",
+      "status" : "active",
+      "totalCount" : 1
+    },
+    {
+      "completedCount" : 14,
+      "items" : [
+        {
+          "category" : "Bug Fixes",
+          "completed" : true,
+          "title" : "Fix shows in DAW"
+        },
+        {
+          "category" : "New Features",
+          "completed" : true,
+          "title" : "Add game to Crush Coaster"
+        },
+        {
+          "category" : "New Features",
+          "completed" : true,
+          "title" : "Crowd report chart to look like the web ones"
+        },
+        {
+          "category" : "Fixes & Improvements",
+          "completed" : true,
+          "title" : "Better Apple TV screen background and icon"
+        },
+        {
+          "category" : "New Features",
+          "completed" : true,
+          "title" : "Send notifications asking for crowd ratings"
+        },
+        {
+          "category" : "New Features",
+          "completed" : true,
+          "title" : "Track character meets in my day together with rides"
+        },
+        {
+          "category" : "New Features",
+          "completed" : true,
+          "title" : "Update planned closure screen\n\n- do not show closed under the name\n- do not show enriched data\n- use rotating images"
+        },
+        {
+          "category" : "Fixes & Improvements",
+          "completed" : true,
+          "title" : "Remove Ride Radar status page link from credits screen"
+        },
+        {
+          "category" : "New Features",
+          "completed" : true,
+          "title" : "Pre populate search field with low wait times rides near to the user location and not already in my rides and with upcoming shows"
+        },
+        {
+          "category" : "New Features",
+          "completed" : true,
+          "title" : "Change Widget orbit on the Globe view"
+        },
+        {
+          "category" : "Fixes & Improvements",
+          "completed" : true,
+          "title" : "Resize of Widget in the empty My Day"
+        },
+        {
+          "category" : "New Features",
+          "completed" : true,
+          "title" : "Added all seasonal events"
+        },
+        {
+          "category" : "New Features",
+          "completed" : true,
+          "title" : "Add party size and composition when creating My Day"
+        },
+        {
+          "category" : "Fixes & Improvements",
+          "completed" : true,
+          "title" : "General performance improvements"
+        }
+      ],
+      "number" : "2026.09.04",
+      "status" : "shipped",
+      "totalCount" : 14
+    },
+    {
+      "completedCount" : 3,
+      "items" : [
+        {
+          "category" : "New Features",
+          "completed" : true,
+          "title" : "Add Kickstarter Exchange ad"
+        },
+        {
+          "category" : "New Features",
+          "completed" : true,
+          "title" : "Add the live queue reports to RideRadar.fun/live queues (even a single report)"
+        },
+        {
+          "category" : "Bug Fixes",
+          "completed" : true,
+          "title" : "Fix widgets"
+        }
+      ],
+      "number" : "2026.08.22",
+      "status" : "shipped",
+      "totalCount" : 3
+    },
+    {
+      "completedCount" : 6,
+      "items" : [
+        {
+          "category" : "Fixes & Improvements",
+          "completed" : true,
+          "title" : "Park Refresh to refresh entities to avoid long delays for new items"
+        },
+        {
+          "category" : "New Features",
+          "completed" : true,
+          "title" : "Add toggle for us date format"
+        },
+        {
+          "category" : "New Features",
+          "completed" : true,
+          "title" : "Bump version to 2026.08.15"
+        },
+        {
+          "category" : "New Features",
+          "completed" : true,
+          "title" : "First Apple TV implementation"
+        },
+        {
+          "category" : "New Features",
+          "completed" : true,
+          "title" : "Live crowd reports - counter of people reporting age of reporting to show timeline graph"
+        },
+        {
+          "category" : "New Features",
+          "completed" : true,
+          "title" : "School holidays, spring breaks…and similar items shown when planning a My Day"
+        }
+      ],
+      "number" : "2026.08.15",
+      "status" : "shipped",
+      "totalCount" : 6
+    },
+    {
+      "completedCount" : 13,
+      "items" : [
+        {
+          "category" : "New Features",
+          "completed" : true,
+          "title" : "Add “Leave a review” in the settings screen"
+        },
+        {
+          "category" : "Fixes & Improvements",
+          "completed" : true,
+          "title" : "Rename Standard icon to Ride Radar"
+        },
+        {
+          "category" : "New Features",
+          "completed" : true,
+          "title" : "Add dlptables to trip planning sources for Paris https://www.dlptables.com/"
+        },
+        {
+          "category" : "Fixes & Improvements",
+          "completed" : true,
+          "title" : "Better display of next show times in show detail page"
+        },
+        {
+          "category" : "Bug Fixes",
+          "completed" : true,
+          "title" : "Widgets show next show time"
+        },
+        {
+          "category" : "Bug Fixes",
+          "completed" : true,
+          "title" : "Hide Planned Closures when they are past"
+        },
+        {
+          "category" : "New Features",
+          "completed" : true,
+          "title" : "Localise app is more languages: Spanish, Italian, French, German"
+        },
+        {
+          "category" : "New Features",
+          "completed" : true,
+          "title" : "Add Dutch and Portuguese"
+        },
+        {
+          "category" : "New Features",
+          "completed" : true,
+          "title" : "Better ride list in past day summary"
+        },
+        {
+          "category" : "New Features",
+          "completed" : true,
+          "title" : "Suggest where to go next based on which rides you’ve been on and what are the wait times at the time of asking"
+        },
+        {
+          "category" : "New Features",
+          "completed" : true,
+          "title" : "Make the roll on my rides build a my day if one wasn’t done. Also add the option to say “I did this ride already” and build up the list in My Day"
+        },
+        {
+          "category" : "New Features",
+          "completed" : true,
+          "title" : "Add Rides Easter eggs"
+        },
+        {
+          "category" : "New Features",
+          "completed" : true,
+          "title" : "Change Discord invite to Disniverse in settings"
+        }
+      ],
+      "number" : "2026.07.26",
+      "status" : "shipped",
+      "totalCount" : 13
+    },
+    {
+      "completedCount" : 12,
+      "items" : [
+        {
+          "category" : "New Features",
+          "completed" : true,
+          "title" : "Add alternate icons/seasonal icons"
+        },
+        {
+          "category" : "Fixes & Improvements",
+          "completed" : true,
+          "title" : "Move park filters into the main preferences group"
+        },
+        {
+          "category" : "Bug Fixes",
+          "completed" : true,
+          "title" : "Check why German name of ride is shown in planned closures? Also check the frequency of refresh of data"
+        },
+        {
+          "category" : "Fixes & Improvements",
+          "completed" : true,
+          "title" : "Improve cloudflare data storage for park history"
+        },
+        {
+          "category" : "Fixes & Improvements",
+          "completed" : true,
+          "title" : "Add tappable info for Shows too"
+        },
+        {
+          "category" : "Fixes & Improvements",
+          "completed" : true,
+          "title" : "Center links in More to Discover"
+        },
+        {
+          "category" : "Fixes & Improvements",
+          "completed" : true,
+          "title" : "Order shows by show times in my rides"
+        },
+        {
+          "category" : "Bug Fixes",
+          "completed" : true,
+          "title" : "iPad is not smooth"
+        },
+        {
+          "category" : "Bug Fixes",
+          "completed" : true,
+          "title" : "iPad shows and restaurants buttons"
+        },
+        {
+          "category" : "Fixes & Improvements",
+          "completed" : true,
+          "title" : "Check planned closure"
+        },
+        {
+          "category" : "New Features",
+          "completed" : true,
+          "title" : "Add support for special events and seasons"
+        },
+        {
+          "category" : "Bug Fixes",
+          "completed" : true,
+          "title" : "More iPad performance improvements on compass tab and my rides"
+        }
+      ],
+      "number" : "2026.06.30",
+      "status" : "shipped",
+      "totalCount" : 12
+    },
+    {
+      "completedCount" : 8,
+      "items" : [
+        {
+          "category" : "New Features",
+          "completed" : true,
+          "title" : "Add links and resources to help planning when creating a new trip"
+        },
+        {
+          "category" : "Fixes & Improvements",
+          "completed" : true,
+          "title" : "Check how often we refresh planned closure data"
+        },
+        {
+          "category" : "New Features",
+          "completed" : true,
+          "title" : "Watch backgrounds"
+        },
+        {
+          "category" : "Fixes & Improvements",
+          "completed" : true,
+          "title" : "Use roadwork icon in live activity and watch when ride is in maintenance"
+        },
+        {
+          "category" : "New Features",
+          "completed" : true,
+          "title" : "Add Shows support inside My Day today based on park and on parks map - include them in search, in my rides they show next show time"
+        },
+        {
+          "category" : "Bug Fixes",
+          "completed" : true,
+          "title" : "Map movements are super slow and buggy especially with shows and restaurants pins on"
+        },
+        {
+          "category" : "New Features",
+          "completed" : true,
+          "title" : "iPad version of the app"
+        },
+        {
+          "category" : "Bug Fixes",
+          "completed" : true,
+          "title" : "Do not show 0 minutes wait in search result if the ride is suspended or closed for refurbishment"
+        }
+      ],
+      "number" : "2026.06.15",
+      "status" : "shipped",
+      "totalCount" : 8
+    },
+    {
+      "completedCount" : 10,
+      "items" : [
+        {
+          "category" : "New Features",
+          "completed" : true,
+          "title" : "Add fun seasonal themes for the apps (instead of confetti/stars)\n- Halloween\n- Christmas"
+        },
+        {
+          "category" : "New Features",
+          "completed" : true,
+          "title" : "Add globe view in Parks tab?"
+        },
+        {
+          "category" : "Fixes & Improvements",
+          "completed" : true,
+          "title" : "Fix calendar header moving when creating a new trip"
+        },
+        {
+          "category" : "Fixes & Improvements",
+          "completed" : true,
+          "title" : "Change My Day layout when the day is today\n- Steps/Rides\n- Rides panel\n- Planned Closures\n- Weather Strip"
+        },
+        {
+          "category" : "Fixes & Improvements",
+          "completed" : true,
+          "title" : "Add edit button on My Day when today is the day!"
+        },
+        {
+          "category" : "Fixes & Improvements",
+          "completed" : true,
+          "title" : "Manual ride auditing in my day, including ability to manually add rides ridden during the day"
+        },
+        {
+          "category" : "Fixes & Improvements",
+          "completed" : true,
+          "title" : "Add Edit button for past days only for the date"
+        },
+        {
+          "category" : "Fixes & Improvements",
+          "completed" : true,
+          "title" : "More obvious prompt for location access"
+        },
+        {
+          "category" : "Fixes & Improvements",
+          "completed" : true,
+          "title" : "Corner complication on watch"
+        },
+        {
+          "category" : "New Features",
+          "completed" : true,
+          "title" : "Bump app version to 2026.06.01"
+        }
+      ],
+      "number" : "2026.06.01",
+      "status" : "shipped",
+      "totalCount" : 10
+    },
+    {
+      "completedCount" : 10,
+      "items" : [
+        {
+          "category" : "New Features",
+          "completed" : true,
+          "title" : "Show planned closure when creating a new trip"
+        },
+        {
+          "category" : "New Features",
+          "completed" : true,
+          "title" : "Add some visual improvements to the Live Activity on lock screen"
+        },
+        {
+          "category" : "Fixes & Improvements",
+          "completed" : true,
+          "title" : "Give a label to live activity start/stop icon"
+        },
+        {
+          "category" : "Fixes & Improvements",
+          "completed" : true,
+          "title" : "Improve the past visits view and list"
+        },
+        {
+          "category" : "Fixes & Improvements",
+          "completed" : true,
+          "title" : "Improve settings lists"
+        },
+        {
+          "category" : "New Features",
+          "completed" : true,
+          "title" : "Move trip planner into main tabs all times"
+        },
+        {
+          "category" : "Fixes & Improvements",
+          "completed" : true,
+          "title" : "Mark rides as suspended on the watch + plus improve watch complications"
+        },
+        {
+          "category" : "Bug Fixes",
+          "completed" : true,
+          "title" : "Deleted upcoming trips randomly pop back up"
+        },
+        {
+          "category" : "New Features",
+          "completed" : true,
+          "title" : "New game: ride tier list - choose a park, create and then share your tier list!"
+        },
+        {
+          "category" : "New Features",
+          "completed" : true,
+          "title" : "Add filter for pregnant - need to find reliable source"
+        }
+      ],
+      "number" : "2026.05.20",
+      "status" : "shipped",
+      "totalCount" : 10
+    },
+    {
+      "completedCount" : 12,
+      "items" : [
+        {
+          "category" : "Fixes & Improvements",
+          "completed" : true,
+          "title" : "Prevent ride times from flashing N/A when going in/out ride lists inside a park"
+        },
+        {
+          "category" : "New Features",
+          "completed" : true,
+          "title" : "Create shareable stories for your upcoming Park Visits!"
+        },
+        {
+          "category" : "New Features",
+          "completed" : true,
+          "title" : "Added “Planned Closures” for each rides"
+        },
+        {
+          "category" : "New Features",
+          "completed" : true,
+          "title" : "Add 🚧 icon on ride lists and my rides instead of live wait if we are inside a planned closure period"
+        },
+        {
+          "category" : "Fixes & Improvements",
+          "completed" : true,
+          "title" : "In each Ride page, the planned closure section is more prominent with a yellow striped background and larger font size"
+        },
+        {
+          "category" : "New Features",
+          "completed" : true,
+          "title" : "Replace standard view with Closed image while inside a planned closure window"
+        },
+        {
+          "category" : "Fixes & Improvements",
+          "completed" : true,
+          "title" : "In My Day, group planned closure by parks so the park name is not repeated many times"
+        },
+        {
+          "category" : "Fixes & Improvements",
+          "completed" : true,
+          "title" : "Improved background refresh and refresh on launch of My Rides"
+        },
+        {
+          "category" : "New Features",
+          "completed" : true,
+          "title" : "New Compass tab inside each park to review history and stats for each park"
+        },
+        {
+          "category" : "Fixes & Improvements",
+          "completed" : true,
+          "title" : "Move planned closures at the top of compass"
+        },
+        {
+          "category" : "Fixes & Improvements",
+          "completed" : true,
+          "title" : "Photo selection in past visits doesn’t match the park"
+        },
+        {
+          "category" : "New Features",
+          "completed" : true,
+          "title" : "Automatically generate a video memory of your day at the park using photos and videos taken by you"
+        }
+      ],
+      "number" : "2026.05.11",
+      "status" : "shipped",
+      "totalCount" : 12
+    }
+  ]
+}
