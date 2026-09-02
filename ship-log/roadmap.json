@@ -7,11 +7,16 @@
   "liveVersion" : "2026.06.15",
   "name" : "Ship Log",
   "schemaVersion" : 1,
-  "updatedAt" : "2026-09-02T17:22:23Z",
+  "updatedAt" : "2026-09-02T17:22:52Z",
   "versions" : [
     {
       "completedCount" : 1,
       "items" : [
+        {
+          "category" : "New Features",
+          "completed" : false,
+          "title" : "Allows creation of public GitHub pages for publishing each app Roadmap"
+        },
         {
           "category" : "Fixes & Improvements",
           "completed" : true,
@@ -20,7 +25,7 @@
       ],
       "number" : "2026.09.10",
       "status" : "active",
-      "totalCount" : 1
+      "totalCount" : 2
     },
     {
       "completedCount" : 5,
