@@ -1,10 +1,13 @@
 {
   "appStoreURL" : "https://apps.apple.com/us/app/ship-log/id6765871950?uo=4",
   "iconURL" : "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/a0/c7/77/a0c77778-2547-7dca-44ad-03629e7dd36a/AppIcon-0-0-1x_U007epad-0-1-sRGB-85-220.png/512x512bb.jpg",
+  "ideas" : [
+
+  ],
   "liveVersion" : "2026.06.15",
   "name" : "Ship Log",
   "schemaVersion" : 1,
-  "updatedAt" : "2026-09-02T17:19:49Z",
+  "updatedAt" : "2026-09-02T17:21:04Z",
   "versions" : [
     {
       "completedCount" : 0,
