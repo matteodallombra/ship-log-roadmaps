@@ -1,16 +1,11 @@
 {
   "appStoreURL" : "https://apps.apple.com/gb/app/ride-radar-for-theme-parks/id6756741518?uo=4",
-  "iconURL" : "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/d3/43/cd/d343cdd3-f7c9-55cc-df08-a7925086de3b/AppIcon-0-0-1x_U007epad-0-1-0-sRGB-85-220.png/512x512bb.jpg",
+  "iconURL" : "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/88/08/ee/8808ee03-5e30-0dd4-977b-81b276e5c2ab/AppIcon-0-0-1x_U007epad-0-1-0-sRGB-85-220.png/512x512bb.jpg",
   "ideas" : [
     {
       "category" : "New Features",
       "completed" : false,
       "title" : "Apple Private Cloud Compute"
-    },
-    {
-      "category" : "New Features",
-      "completed" : false,
-      "title" : "Subscription???"
     },
     {
       "category" : "New Features",
@@ -21,11 +16,6 @@
       "category" : "New Features",
       "completed" : false,
       "title" : "Annual passport features"
-    },
-    {
-      "category" : "New Features",
-      "completed" : false,
-      "title" : "Add a way to auto send cast compliments"
     },
     {
       "category" : "New Features",
@@ -63,10 +53,10 @@
       "title" : "Update app screenshots"
     }
   ],
-  "liveVersion" : "2026.08.22",
+  "liveVersion" : "2026.09.04",
   "name" : "Ride Radar for Theme Parks",
   "schemaVersion" : 1,
-  "updatedAt" : "2026-09-02T17:26:30Z",
+  "updatedAt" : "2026-09-03T09:05:32Z",
   "versions" : [
     {
       "completedCount" : 0,
@@ -75,11 +65,26 @@
           "category" : "Fixes & Improvements",
           "completed" : false,
           "title" : "Restaurant zoom in on iPad"
+        },
+        {
+          "category" : "New Features",
+          "completed" : false,
+          "title" : "Add a way to auto send cast compliments"
+        },
+        {
+          "category" : "New Features",
+          "completed" : false,
+          "title" : "Subscription???"
+        },
+        {
+          "category" : "New Features",
+          "completed" : false,
+          "title" : "Restaurants alerts"
         }
       ],
       "number" : "2026.09.10",
       "status" : "active",
-      "totalCount" : 1
+      "totalCount" : 4
     },
     {
       "completedCount" : 14,
