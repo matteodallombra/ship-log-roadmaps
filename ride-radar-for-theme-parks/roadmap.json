@@ -56,7 +56,7 @@
   "liveVersion" : "2026.09.04",
   "name" : "Ride Radar for Theme Parks",
   "schemaVersion" : 1,
-  "updatedAt" : "2026-09-03T11:46:53Z",
+  "updatedAt" : "2026-09-03T17:27:22Z",
   "versions" : [
     {
       "completedCount" : 0,
@@ -80,11 +80,16 @@
           "category" : "New Features",
           "completed" : false,
           "title" : "Restaurants alerts"
+        },
+        {
+          "category" : "Fixes & Improvements",
+          "completed" : false,
+          "title" : "Larger popup for menus on iPad"
         }
       ],
       "number" : "2026.09.10",
       "status" : "active",
-      "totalCount" : 4
+      "totalCount" : 5
     },
     {
       "completedCount" : 14,
