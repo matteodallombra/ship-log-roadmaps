@@ -56,15 +56,15 @@
   "liveVersion" : "2026.09.04",
   "name" : "Ride Radar for Theme Parks",
   "schemaVersion" : 1,
-  "updatedAt" : "2026-09-04T00:00:54Z",
+  "updatedAt" : "2026-09-04T12:52:28Z",
   "versions" : [
     {
-      "completedCount" : 0,
+      "completedCount" : 3,
       "items" : [
         {
-          "category" : "Fixes & Improvements",
+          "category" : "New Features",
           "completed" : false,
-          "title" : "Restaurant zoom in on iPad"
+          "title" : "Restaurants alerts"
         },
         {
           "category" : "New Features",
@@ -74,30 +74,30 @@
         {
           "category" : "New Features",
           "completed" : false,
+          "title" : "New icons\n- Widget\n- Food related\n- Crowd related"
+        },
+        {
+          "category" : "New Features",
+          "completed" : false,
           "title" : "Subscription???"
         },
         {
-          "category" : "New Features",
-          "completed" : false,
-          "title" : "Restaurants alerts"
-        },
-        {
           "category" : "Fixes & Improvements",
-          "completed" : false,
-          "title" : "Larger popup for menus on iPad"
-        },
-        {
-          "category" : "Fixes & Improvements",
-          "completed" : false,
+          "completed" : true,
           "title" : "Dining party size to sync across devices and style of submenu to match the other submenus"
         },
         {
-          "category" : "New Features",
-          "completed" : false,
-          "title" : "New icons\n- Widget\n- Food related\n- Crowd related"
+          "category" : "Fixes & Improvements",
+          "completed" : true,
+          "title" : "Restaurant zoom in on iPad"
+        },
+        {
+          "category" : "Fixes & Improvements",
+          "completed" : true,
+          "title" : "Larger popup for menus on iPad"
         }
       ],
-      "number" : "2026.09.10",
+      "number" : "2026.09.20",
       "status" : "active",
       "totalCount" : 7
     },
