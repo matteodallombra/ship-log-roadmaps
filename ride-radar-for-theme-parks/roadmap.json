@@ -56,7 +56,7 @@
   "liveVersion" : "2026.09.04",
   "name" : "Ride Radar for Theme Parks",
   "schemaVersion" : 1,
-  "updatedAt" : "2026-09-03T17:27:56Z",
+  "updatedAt" : "2026-09-04T00:00:54Z",
   "versions" : [
     {
       "completedCount" : 0,
@@ -90,11 +90,16 @@
           "category" : "Fixes & Improvements",
           "completed" : false,
           "title" : "Dining party size to sync across devices and style of submenu to match the other submenus"
+        },
+        {
+          "category" : "New Features",
+          "completed" : false,
+          "title" : "New icons\n- Widget\n- Food related\n- Crowd related"
         }
       ],
       "number" : "2026.09.10",
       "status" : "active",
-      "totalCount" : 6
+      "totalCount" : 7
     },
     {
       "completedCount" : 14,
