@@ -56,11 +56,16 @@
   "liveVersion" : "2026.09.04",
   "name" : "Ride Radar for Theme Parks",
   "schemaVersion" : 1,
-  "updatedAt" : "2026-09-04T12:52:28Z",
+  "updatedAt" : "2026-09-04T12:55:41Z",
   "versions" : [
     {
       "completedCount" : 3,
       "items" : [
+        {
+          "category" : "Fixes & Improvements",
+          "completed" : false,
+          "title" : "On iPad only, restaurants link have to use correct online link"
+        },
         {
           "category" : "New Features",
           "completed" : false,
@@ -99,7 +104,7 @@
       ],
       "number" : "2026.09.20",
       "status" : "active",
-      "totalCount" : 7
+      "totalCount" : 8
     },
     {
       "completedCount" : 14,
