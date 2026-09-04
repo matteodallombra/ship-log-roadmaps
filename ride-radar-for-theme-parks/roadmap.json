@@ -56,16 +56,11 @@
   "liveVersion" : "2026.09.04",
   "name" : "Ride Radar for Theme Parks",
   "schemaVersion" : 1,
-  "updatedAt" : "2026-09-04T16:09:25Z",
+  "updatedAt" : "2026-09-04T20:38:45Z",
   "versions" : [
     {
-      "completedCount" : 3,
+      "completedCount" : 5,
       "items" : [
-        {
-          "category" : "Fixes & Improvements",
-          "completed" : false,
-          "title" : "On iPad only, restaurants link have to use correct online link"
-        },
         {
           "category" : "New Features",
           "completed" : false,
@@ -100,11 +95,21 @@
           "category" : "Fixes & Improvements",
           "completed" : true,
           "title" : "Larger popup for menus on iPad"
+        },
+        {
+          "category" : "Fixes & Improvements",
+          "completed" : true,
+          "title" : "On iPad only, restaurants link have to use correct online link"
+        },
+        {
+          "category" : "New Features",
+          "completed" : true,
+          "title" : "Restaurants live check when opening restaurants detailed view - if no party size set, ask that first."
         }
       ],
       "number" : "2026.09.20",
       "status" : "active",
-      "totalCount" : 8
+      "totalCount" : 9
     },
     {
       "completedCount" : 14,
