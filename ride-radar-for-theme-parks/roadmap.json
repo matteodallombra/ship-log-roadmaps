@@ -56,7 +56,7 @@
   "liveVersion" : "2026.09.04",
   "name" : "Ride Radar for Theme Parks",
   "schemaVersion" : 1,
-  "updatedAt" : "2026-09-05T10:34:10Z",
+  "updatedAt" : "2026-09-05T10:34:30Z",
   "versions" : [
     {
       "completedCount" : 5,
@@ -75,6 +75,11 @@
           "category" : "New Features",
           "completed" : false,
           "title" : "New icons\n- Widget\n- Food related\n- Crowd related"
+        },
+        {
+          "category" : "Fixes & Improvements",
+          "completed" : false,
+          "title" : "Tap on number in restaurant details to quickly adjust party size"
         },
         {
           "category" : "New Features",
@@ -109,7 +114,7 @@
       ],
       "number" : "2026.09.20",
       "status" : "active",
-      "totalCount" : 9
+      "totalCount" : 10
     },
     {
       "completedCount" : 14,
