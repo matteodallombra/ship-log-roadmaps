@@ -66,20 +66,20 @@
   "liveVersion" : "2026.09.04",
   "name" : "Ride Radar for Theme Parks",
   "schemaVersion" : 1,
-  "updatedAt" : "2026-09-06T13:50:24Z",
+  "updatedAt" : "2026-09-06T13:54:02Z",
   "versions" : [
     {
-      "completedCount" : 10,
+      "completedCount" : 11,
       "items" : [
-        {
-          "category" : "Bug Fixes",
-          "completed" : false,
-          "title" : "Inside a park, moving tabs from rides to food to compass sometimes takes too long with the selector stuck on rides"
-        },
         {
           "category" : "Fixes & Improvements",
           "completed" : false,
           "title" : "Further performance improvements moving across tabs"
+        },
+        {
+          "category" : "Fixes & Improvements",
+          "completed" : false,
+          "title" : "Add rule for future bookings so they stay inside the correct time window"
         },
         {
           "category" : "New Features",
@@ -135,11 +135,16 @@
           "category" : "Fixes & Improvements",
           "completed" : true,
           "title" : "Dark mode for food icons"
+        },
+        {
+          "category" : "Bug Fixes",
+          "completed" : true,
+          "title" : "Inside a park, moving tabs from rides to food to compass sometimes takes too long with the selector stuck on rides"
         }
       ],
       "number" : "2026.09.20",
       "status" : "active",
-      "totalCount" : 13
+      "totalCount" : 14
     },
     {
       "completedCount" : 14,
