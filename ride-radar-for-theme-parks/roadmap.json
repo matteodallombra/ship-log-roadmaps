@@ -50,6 +50,11 @@
     {
       "category" : "New Features",
       "completed" : false,
+      "title" : "Subscription???"
+    },
+    {
+      "category" : "New Features",
+      "completed" : false,
       "title" : "iOS27 compatibility"
     },
     {
@@ -61,20 +66,25 @@
   "liveVersion" : "2026.09.04",
   "name" : "Ride Radar for Theme Parks",
   "schemaVersion" : 1,
-  "updatedAt" : "2026-09-05T17:31:59Z",
+  "updatedAt" : "2026-09-06T11:39:26Z",
   "versions" : [
     {
-      "completedCount" : 8,
+      "completedCount" : 10,
       "items" : [
         {
-          "category" : "New Features",
+          "category" : "Bug Fixes",
           "completed" : false,
-          "title" : "Restaurants alerts"
+          "title" : "Inside a park, moving tabs from rides to food to compass sometimes takes too long with the selector stuck on rides"
+        },
+        {
+          "category" : "Fixes & Improvements",
+          "completed" : false,
+          "title" : "Further performance improvements moving across tabs"
         },
         {
           "category" : "New Features",
           "completed" : false,
-          "title" : "Subscription???"
+          "title" : "Restaurants alerts"
         },
         {
           "category" : "Fixes & Improvements",
@@ -115,11 +125,21 @@
           "category" : "New Features",
           "completed" : true,
           "title" : "New icons\n- Widget\n- Food related\n- Crowd related"
+        },
+        {
+          "category" : "Fixes & Improvements",
+          "completed" : true,
+          "title" : "Make cuisines pills smaller inside each restaurant page"
+        },
+        {
+          "category" : "Fixes & Improvements",
+          "completed" : true,
+          "title" : "Dark mode for food icons"
         }
       ],
       "number" : "2026.09.20",
       "status" : "active",
-      "totalCount" : 10
+      "totalCount" : 13
     },
     {
       "completedCount" : 14,
