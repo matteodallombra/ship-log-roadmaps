@@ -66,7 +66,7 @@
   "liveVersion" : "2026.09.04",
   "name" : "Ride Radar for Theme Parks",
   "schemaVersion" : 1,
-  "updatedAt" : "2026-09-06T13:54:02Z",
+  "updatedAt" : "2026-09-08T13:27:54Z",
   "versions" : [
     {
       "completedCount" : 11,
@@ -80,6 +80,11 @@
           "category" : "Fixes & Improvements",
           "completed" : false,
           "title" : "Add rule for future bookings so they stay inside the correct time window"
+        },
+        {
+          "category" : "Fixes & Improvements",
+          "completed" : false,
+          "title" : "Do not show the check restaurant button if the restaurant is closed"
         },
         {
           "category" : "New Features",
@@ -144,7 +149,7 @@
       ],
       "number" : "2026.09.20",
       "status" : "active",
-      "totalCount" : 14
+      "totalCount" : 15
     },
     {
       "completedCount" : 14,
