@@ -61,35 +61,30 @@
       "category" : "New Features",
       "completed" : false,
       "title" : "Update app screenshots"
+    },
+    {
+      "category" : "New Features",
+      "completed" : false,
+      "title" : "Restaurants alerts"
     }
   ],
   "liveVersion" : "2026.09.04",
   "name" : "Ride Radar for Theme Parks",
   "schemaVersion" : 1,
-  "updatedAt" : "2026-09-08T13:27:54Z",
+  "updatedAt" : "2026-09-09T10:34:33Z",
   "versions" : [
     {
-      "completedCount" : 11,
+      "completedCount" : 14,
       "items" : [
-        {
-          "category" : "Fixes & Improvements",
-          "completed" : false,
-          "title" : "Further performance improvements moving across tabs"
-        },
-        {
-          "category" : "Fixes & Improvements",
-          "completed" : false,
-          "title" : "Add rule for future bookings so they stay inside the correct time window"
-        },
-        {
-          "category" : "Fixes & Improvements",
-          "completed" : false,
-          "title" : "Do not show the check restaurant button if the restaurant is closed"
-        },
         {
           "category" : "New Features",
           "completed" : false,
-          "title" : "Restaurants alerts"
+          "title" : "Add a notification once the restaurant booking window opens based on the day of My Day"
+        },
+        {
+          "category" : "Fixes & Improvements",
+          "completed" : false,
+          "title" : "Remove restaurants from showing up in the widgets"
         },
         {
           "category" : "Fixes & Improvements",
@@ -145,11 +140,26 @@
           "category" : "Bug Fixes",
           "completed" : true,
           "title" : "Inside a park, moving tabs from rides to food to compass sometimes takes too long with the selector stuck on rides"
+        },
+        {
+          "category" : "Fixes & Improvements",
+          "completed" : true,
+          "title" : "Do not show the check restaurant button if the restaurant is closed"
+        },
+        {
+          "category" : "Fixes & Improvements",
+          "completed" : true,
+          "title" : "Add rule for future bookings so they stay inside the correct time window"
+        },
+        {
+          "category" : "Fixes & Improvements",
+          "completed" : true,
+          "title" : "Further performance improvements moving across tabs"
         }
       ],
       "number" : "2026.09.20",
       "status" : "active",
-      "totalCount" : 15
+      "totalCount" : 16
     },
     {
       "completedCount" : 14,
