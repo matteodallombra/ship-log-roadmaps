@@ -71,21 +71,11 @@
   "liveVersion" : "2026.09.04",
   "name" : "Ride Radar for Theme Parks",
   "schemaVersion" : 1,
-  "updatedAt" : "2026-09-09T14:56:38Z",
+  "updatedAt" : "2026-09-11T16:59:38Z",
   "versions" : [
     {
-      "completedCount" : 14,
+      "completedCount" : 16,
       "items" : [
-        {
-          "category" : "New Features",
-          "completed" : false,
-          "title" : "Add a notification once the restaurant booking window opens based on the day of My Day"
-        },
-        {
-          "category" : "Fixes & Improvements",
-          "completed" : false,
-          "title" : "Remove restaurants from showing up in the widgets"
-        },
         {
           "category" : "Fixes & Improvements",
           "completed" : true,
@@ -155,9 +145,19 @@
           "category" : "Fixes & Improvements",
           "completed" : true,
           "title" : "Further performance improvements moving across tabs"
+        },
+        {
+          "category" : "New Features",
+          "completed" : true,
+          "title" : "Add a notification once the restaurant booking window opens based on the day of My Day"
+        },
+        {
+          "category" : "Fixes & Improvements",
+          "completed" : true,
+          "title" : "Remove restaurants from showing up in the widgets"
         }
       ],
-      "number" : "2026.09.20",
+      "number" : "2026.09.12",
       "status" : "active",
       "totalCount" : 16
     },
