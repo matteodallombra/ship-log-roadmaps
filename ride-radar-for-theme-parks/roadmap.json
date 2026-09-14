@@ -71,8 +71,21 @@
   "liveVersion" : "2026.09.12",
   "name" : "Ride Radar for Theme Parks",
   "schemaVersion" : 1,
-  "updatedAt" : "2026-09-14T20:03:34Z",
+  "updatedAt" : "2026-09-14T20:04:59Z",
   "versions" : [
+    {
+      "completedCount" : 0,
+      "items" : [
+        {
+          "category" : "New Features",
+          "completed" : false,
+          "title" : "iOS27 compatibility"
+        }
+      ],
+      "number" : "2026.09.19",
+      "status" : "active",
+      "totalCount" : 1
+    },
     {
       "completedCount" : 16,
       "items" : [
