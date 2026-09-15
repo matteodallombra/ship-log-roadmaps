@@ -71,20 +71,25 @@
   "liveVersion" : "2026.09.12",
   "name" : "Ride Radar for Theme Parks",
   "schemaVersion" : 1,
-  "updatedAt" : "2026-09-15T07:12:27Z",
+  "updatedAt" : "2026-09-15T21:05:19Z",
   "versions" : [
     {
-      "completedCount" : 0,
+      "completedCount" : 1,
       "items" : [
         {
           "category" : "New Features",
           "completed" : false,
+          "title" : "Siri AI integration"
+        },
+        {
+          "category" : "New Features",
+          "completed" : true,
           "title" : "iOS27 compatibility"
         }
       ],
       "number" : "2026.09.19",
       "status" : "active",
-      "totalCount" : 1
+      "totalCount" : 2
     },
     {
       "completedCount" : 16,
