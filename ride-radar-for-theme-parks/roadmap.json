@@ -71,7 +71,7 @@
   "liveVersion" : "2026.09.12",
   "name" : "Ride Radar for Theme Parks",
   "schemaVersion" : 1,
-  "updatedAt" : "2026-09-18T06:25:48Z",
+  "updatedAt" : "2026-09-18T09:21:13Z",
   "versions" : [
     {
       "completedCount" : 1,
@@ -79,7 +79,7 @@
         {
           "category" : "New Features",
           "completed" : false,
-          "title" : "Siri AI integration"
+          "title" : "Siri AI integration and On Device Intelligence: revamped natural language search"
         },
         {
           "category" : "New Features",
