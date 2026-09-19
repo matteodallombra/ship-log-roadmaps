@@ -71,7 +71,7 @@
   "liveVersion" : "2026.09.12",
   "name" : "Ride Radar for Theme Parks",
   "schemaVersion" : 1,
-  "updatedAt" : "2026-09-18T09:22:02Z",
+  "updatedAt" : "2026-09-19T07:13:23Z",
   "versions" : [
     {
       "completedCount" : 1,
@@ -83,13 +83,18 @@
         },
         {
           "category" : "New Features",
+          "completed" : false,
+          "title" : "Ready for iPhone Duo"
+        },
+        {
+          "category" : "New Features",
           "completed" : true,
           "title" : "iOS27 compatibility"
         }
       ],
-      "number" : "2026.09.19",
+      "number" : "2026.10.23",
       "status" : "active",
-      "totalCount" : 2
+      "totalCount" : 3
     },
     {
       "completedCount" : 16,
