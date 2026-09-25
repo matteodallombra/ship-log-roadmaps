@@ -61,10 +61,10 @@
   "liveVersion" : "2026.09.12",
   "name" : "Ride Radar for Theme Parks",
   "schemaVersion" : 1,
-  "updatedAt" : "2026-09-23T15:19:57Z",
+  "updatedAt" : "2026-09-25T21:40:26Z",
   "versions" : [
     {
-      "completedCount" : 4,
+      "completedCount" : 5,
       "items" : [
         {
           "category" : "New Features",
@@ -85,11 +85,16 @@
           "category" : "New Features",
           "completed" : true,
           "title" : "Apple Private Cloud Compute"
+        },
+        {
+          "category" : "New Features",
+          "completed" : true,
+          "title" : "Restaurants check for DLR and WDW"
         }
       ],
       "number" : "2026.10.23",
       "status" : "active",
-      "totalCount" : 4
+      "totalCount" : 5
     },
     {
       "completedCount" : 16,
