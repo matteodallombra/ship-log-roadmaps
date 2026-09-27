@@ -61,10 +61,10 @@
   "liveVersion" : "2026.09.12",
   "name" : "Ride Radar for Theme Parks",
   "schemaVersion" : 1,
-  "updatedAt" : "2026-09-25T21:40:26Z",
+  "updatedAt" : "2026-09-27T10:20:36Z",
   "versions" : [
     {
-      "completedCount" : 5,
+      "completedCount" : 6,
       "items" : [
         {
           "category" : "New Features",
@@ -90,11 +90,16 @@
           "category" : "New Features",
           "completed" : true,
           "title" : "Restaurants check for DLR and WDW"
+        },
+        {
+          "category" : "Fixes & Improvements",
+          "completed" : true,
+          "title" : "Fix Pirates game"
         }
       ],
       "number" : "2026.10.23",
       "status" : "active",
-      "totalCount" : 5
+      "totalCount" : 6
     },
     {
       "completedCount" : 16,
