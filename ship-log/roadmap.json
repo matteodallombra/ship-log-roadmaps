@@ -7,8 +7,21 @@
   "liveVersion" : "2026.09.15",
   "name" : "Ship Log",
   "schemaVersion" : 1,
-  "updatedAt" : "2026-09-27T11:23:39Z",
+  "updatedAt" : "2026-09-27T11:24:17Z",
   "versions" : [
+    {
+      "completedCount" : 1,
+      "items" : [
+        {
+          "category" : "New Features",
+          "completed" : true,
+          "title" : "Requires iOS 27"
+        }
+      ],
+      "number" : "2026.09.28",
+      "status" : "shipped",
+      "totalCount" : 1
+    },
     {
       "completedCount" : 2,
       "items" : [
