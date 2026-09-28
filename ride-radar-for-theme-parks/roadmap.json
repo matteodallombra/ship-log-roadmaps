@@ -33,11 +33,6 @@
       "title" : "Optimise Database"
     },
     {
-      "category" : "Fixes & Improvements",
-      "completed" : false,
-      "title" : "Move away from old backend for Live Activity"
-    },
-    {
       "category" : "New Features",
       "completed" : false,
       "title" : "Add a way to auto send cast compliments"
@@ -45,23 +40,13 @@
     {
       "category" : "New Features",
       "completed" : false,
-      "title" : "Subscription???"
-    },
-    {
-      "category" : "New Features",
-      "completed" : false,
       "title" : "Update app screenshots"
-    },
-    {
-      "category" : "New Features",
-      "completed" : false,
-      "title" : "Restaurants alerts"
     }
   ],
   "liveVersion" : "2026.09.12",
   "name" : "Ride Radar for Theme Parks",
   "schemaVersion" : 1,
-  "updatedAt" : "2026-09-28T07:25:06Z",
+  "updatedAt" : "2026-09-28T20:39:40Z",
   "versions" : [
     {
       "completedCount" : 6,
@@ -70,6 +55,21 @@
           "category" : "New Features",
           "completed" : false,
           "title" : "Check Apple Watch app improvements"
+        },
+        {
+          "category" : "Fixes & Improvements",
+          "completed" : false,
+          "title" : "Move away from old backend for Live Activity"
+        },
+        {
+          "category" : "New Features",
+          "completed" : false,
+          "title" : "Subscription???"
+        },
+        {
+          "category" : "New Features",
+          "completed" : false,
+          "title" : "Restaurants alerts"
         },
         {
           "category" : "New Features",
@@ -104,7 +104,7 @@
       ],
       "number" : "2026.10.23",
       "status" : "active",
-      "totalCount" : 7
+      "totalCount" : 10
     },
     {
       "completedCount" : 16,
