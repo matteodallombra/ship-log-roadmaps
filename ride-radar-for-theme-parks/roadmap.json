@@ -46,21 +46,11 @@
   "liveVersion" : "2026.09.12",
   "name" : "Ride Radar for Theme Parks",
   "schemaVersion" : 1,
-  "updatedAt" : "2026-09-28T20:44:24Z",
+  "updatedAt" : "2026-09-29T07:03:19Z",
   "versions" : [
     {
-      "completedCount" : 6,
+      "completedCount" : 8,
       "items" : [
-        {
-          "category" : "New Features",
-          "completed" : false,
-          "title" : "Check Apple Watch app improvements"
-        },
-        {
-          "category" : "Fixes & Improvements",
-          "completed" : false,
-          "title" : "Move away from old backend for Live Activity"
-        },
         {
           "category" : "New Features",
           "completed" : false,
@@ -100,6 +90,16 @@
           "category" : "Fixes & Improvements",
           "completed" : true,
           "title" : "Fix Pirates game"
+        },
+        {
+          "category" : "Fixes & Improvements",
+          "completed" : true,
+          "title" : "Move away from old backend for Live Activity"
+        },
+        {
+          "category" : "New Features",
+          "completed" : true,
+          "title" : "Check Apple Watch app improvements"
         }
       ],
       "number" : "2026.10.23",
