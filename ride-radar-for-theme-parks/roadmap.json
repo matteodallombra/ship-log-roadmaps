@@ -46,7 +46,7 @@
   "liveVersion" : "2026.09.12",
   "name" : "Ride Radar for Theme Parks",
   "schemaVersion" : 1,
-  "updatedAt" : "2026-09-29T07:03:19Z",
+  "updatedAt" : "2026-09-29T21:35:34Z",
   "versions" : [
     {
       "completedCount" : 8,
@@ -55,6 +55,11 @@
           "category" : "New Features",
           "completed" : false,
           "title" : "Subscription???"
+        },
+        {
+          "category" : "New Features",
+          "completed" : false,
+          "title" : "Add log a ride inside each ride page / my rides tab"
         },
         {
           "category" : "New Features",
@@ -104,7 +109,7 @@
       ],
       "number" : "2026.10.23",
       "status" : "active",
-      "totalCount" : 10
+      "totalCount" : 11
     },
     {
       "completedCount" : 16,
