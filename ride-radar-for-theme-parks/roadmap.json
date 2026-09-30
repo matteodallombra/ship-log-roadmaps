@@ -46,7 +46,7 @@
   "liveVersion" : "2026.09.12",
   "name" : "Ride Radar for Theme Parks",
   "schemaVersion" : 1,
-  "updatedAt" : "2026-09-30T06:24:32Z",
+  "updatedAt" : "2026-09-30T06:25:09Z",
   "versions" : [
     {
       "completedCount" : 8,
@@ -80,6 +80,11 @@
           "category" : "Fixes & Improvements",
           "completed" : false,
           "title" : "Speed up first loading of alerts in app for restaurants"
+        },
+        {
+          "category" : "Fixes & Improvements",
+          "completed" : false,
+          "title" : "Visually improve list and only keep the latest notifications for each alert"
         },
         {
           "category" : "New Features",
@@ -124,7 +129,7 @@
       ],
       "number" : "2026.10.23",
       "status" : "active",
-      "totalCount" : 14
+      "totalCount" : 15
     },
     {
       "completedCount" : 16,
