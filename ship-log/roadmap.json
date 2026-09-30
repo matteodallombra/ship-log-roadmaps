@@ -6,12 +6,17 @@
       "category" : "New Features",
       "completed" : false,
       "title" : "Integrate with share sheet to be able to create a new item when taking screenshots"
+    },
+    {
+      "category" : "New Features",
+      "completed" : false,
+      "title" : "Add MCP or a way for codex to go through the items on the Mac version of the app so it can read, action and mark as done automatically or when user accepts the results"
     }
   ],
   "liveVersion" : "2026.09.28",
   "name" : "Ship Log",
   "schemaVersion" : 1,
-  "updatedAt" : "2026-09-30T06:25:43Z",
+  "updatedAt" : "2026-09-30T06:26:28Z",
   "versions" : [
     {
       "completedCount" : 1,
