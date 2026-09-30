@@ -56,7 +56,7 @@
   "liveVersion" : "2026.09.12",
   "name" : "Ride Radar for Theme Parks",
   "schemaVersion" : 1,
-  "updatedAt" : "2026-09-30T20:54:35Z",
+  "updatedAt" : "2026-09-30T23:24:38Z",
   "versions" : [
     {
       "completedCount" : 11,
@@ -80,6 +80,11 @@
           "category" : "New Features",
           "completed" : false,
           "title" : "Add early entry / magic time to the small/medium widget in the park close mode. Currently we only show the standard opening time"
+        },
+        {
+          "category" : "New Features",
+          "completed" : false,
+          "title" : "Add pins support"
         },
         {
           "category" : "New Features",
@@ -139,7 +144,7 @@
       ],
       "number" : "2026.10.23",
       "status" : "active",
-      "totalCount" : 15
+      "totalCount" : 16
     },
     {
       "completedCount" : 13,
