@@ -1,11 +1,11 @@
 {
   "appStoreURL" : "https://apps.apple.com/gb/app/ride-radar-for-theme-parks/id6756741518?uo=4",
-  "iconURL" : "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/45/23/85/45238539-cf5b-a02e-c6b7-e993b041c930/AppIcon-0-0-1x_U007epad-0-1-0-sRGB-85-220.png/512x512bb.jpg",
+  "iconURL" : "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/49/62/ac/4962ac72-fccc-2dbe-3257-394d347a0be4/AppIcon-0-0-1x_U007epad-0-1-sRGB-85-220.png/512x512bb.jpg",
   "ideas" : [
     {
-      "category" : "New Features",
+      "category" : "Fixes & Improvements",
       "completed" : false,
-      "title" : "Share post trip park stats"
+      "title" : "Manual start of background location?"
     },
     {
       "category" : "New Features",
@@ -15,17 +15,37 @@
     {
       "category" : "New Features",
       "completed" : false,
+      "title" : "Add multi-day trips creation and better date picker for future/past"
+    },
+    {
+      "category" : "New Features",
+      "completed" : false,
       "title" : "Supplement crowd calendars with actual info from our own database"
     },
     {
       "category" : "New Features",
       "completed" : false,
-      "title" : "Add multi-day trips creation and better date picker for future/past"
+      "title" : "Localise app is more languages: Spanish, Italian, French, German"
+    },
+    {
+      "category" : "New Features",
+      "completed" : false,
+      "title" : "Live stream with parks info?"
     },
     {
       "category" : "Fixes & Improvements",
       "completed" : false,
       "title" : "Don’t count Planned Closure as downtime for stats in Compass in rides and compass tab"
+    },
+    {
+      "category" : "New Features",
+      "completed" : false,
+      "title" : "Share post trip park stats"
+    },
+    {
+      "category" : "New Features",
+      "completed" : false,
+      "title" : "Better ride list in past day summary"
     },
     {
       "category" : "Fixes & Improvements",
@@ -43,13 +63,91 @@
       "title" : "Update app screenshots"
     }
   ],
-  "liveVersion" : "2026.09.12",
+  "liveVersion" : "2026.06.15",
   "name" : "Ride Radar for Theme Parks",
   "schemaVersion" : 1,
-  "updatedAt" : "2026-09-30T06:26:28Z",
+  "updatedAt" : "2026-09-30T14:43:58Z",
   "versions" : [
     {
-      "completedCount" : 8,
+      "completedCount" : 9,
+      "items" : [
+        {
+          "category" : "Bug Fixes",
+          "completed" : false,
+          "title" : "Check why German name of ride is shown in planned closures? Also check the frequency of refresh of data"
+        },
+        {
+          "category" : "Fixes & Improvements",
+          "completed" : false,
+          "title" : "Move away from old backend for Live Activity"
+        },
+        {
+          "category" : "Fixes & Improvements",
+          "completed" : false,
+          "title" : "Improve cloudflare data storage for park history"
+        },
+        {
+          "category" : "New Features",
+          "completed" : false,
+          "title" : "Add RideRadar Instagram account in settings - move the socials above the tips - rework the social segment - more compact icons"
+        },
+        {
+          "category" : "Fixes & Improvements",
+          "completed" : false,
+          "title" : "Move park filters into the main preferences group"
+        },
+        {
+          "category" : "New Features",
+          "completed" : true,
+          "title" : "Add alternate icons/seasonal icons"
+        },
+        {
+          "category" : "Fixes & Improvements",
+          "completed" : true,
+          "title" : "Add tappable info for Shows too"
+        },
+        {
+          "category" : "Fixes & Improvements",
+          "completed" : true,
+          "title" : "Center links in More to Discover"
+        },
+        {
+          "category" : "Fixes & Improvements",
+          "completed" : true,
+          "title" : "Order shows by show times in my rides"
+        },
+        {
+          "category" : "Bug Fixes",
+          "completed" : true,
+          "title" : "iPad is not smooth"
+        },
+        {
+          "category" : "Bug Fixes",
+          "completed" : true,
+          "title" : "iPad shows and restaurants buttons"
+        },
+        {
+          "category" : "Fixes & Improvements",
+          "completed" : true,
+          "title" : "Check planned closure"
+        },
+        {
+          "category" : "New Features",
+          "completed" : true,
+          "title" : "Add support for special events and seasons"
+        },
+        {
+          "category" : "Bug Fixes",
+          "completed" : true,
+          "title" : "More iPad performance improvements on compass tab and my rides"
+        }
+      ],
+      "number" : "2026.06.30",
+      "status" : "active",
+      "totalCount" : 14
+    },
+    {
+      "completedCount" : 7,
       "items" : [
         {
           "category" : "New Features",
@@ -117,11 +215,6 @@
           "title" : "Fix Pirates game"
         },
         {
-          "category" : "Fixes & Improvements",
-          "completed" : true,
-          "title" : "Move away from old backend for Live Activity"
-        },
-        {
           "category" : "New Features",
           "completed" : true,
           "title" : "Check Apple Watch app improvements"
@@ -129,7 +222,7 @@
       ],
       "number" : "2026.10.23",
       "status" : "active",
-      "totalCount" : 15
+      "totalCount" : 14
     },
     {
       "completedCount" : 16,
@@ -359,7 +452,7 @@
       "totalCount" : 6
     },
     {
-      "completedCount" : 13,
+      "completedCount" : 11,
       "items" : [
         {
           "category" : "New Features",
@@ -394,17 +487,7 @@
         {
           "category" : "New Features",
           "completed" : true,
-          "title" : "Localise app is more languages: Spanish, Italian, French, German"
-        },
-        {
-          "category" : "New Features",
-          "completed" : true,
           "title" : "Add Dutch and Portuguese"
-        },
-        {
-          "category" : "New Features",
-          "completed" : true,
-          "title" : "Better ride list in past day summary"
         },
         {
           "category" : "New Features",
@@ -429,79 +512,26 @@
       ],
       "number" : "2026.07.26",
       "status" : "shipped",
-      "totalCount" : 13
-    },
-    {
-      "completedCount" : 12,
-      "items" : [
-        {
-          "category" : "New Features",
-          "completed" : true,
-          "title" : "Add alternate icons/seasonal icons"
-        },
-        {
-          "category" : "Fixes & Improvements",
-          "completed" : true,
-          "title" : "Move park filters into the main preferences group"
-        },
-        {
-          "category" : "Bug Fixes",
-          "completed" : true,
-          "title" : "Check why German name of ride is shown in planned closures? Also check the frequency of refresh of data"
-        },
-        {
-          "category" : "Fixes & Improvements",
-          "completed" : true,
-          "title" : "Improve cloudflare data storage for park history"
-        },
-        {
-          "category" : "Fixes & Improvements",
-          "completed" : true,
-          "title" : "Add tappable info for Shows too"
-        },
-        {
-          "category" : "Fixes & Improvements",
-          "completed" : true,
-          "title" : "Center links in More to Discover"
-        },
-        {
-          "category" : "Fixes & Improvements",
-          "completed" : true,
-          "title" : "Order shows by show times in my rides"
-        },
-        {
-          "category" : "Bug Fixes",
-          "completed" : true,
-          "title" : "iPad is not smooth"
-        },
-        {
-          "category" : "Bug Fixes",
-          "completed" : true,
-          "title" : "iPad shows and restaurants buttons"
-        },
-        {
-          "category" : "Fixes & Improvements",
-          "completed" : true,
-          "title" : "Check planned closure"
-        },
-        {
-          "category" : "New Features",
-          "completed" : true,
-          "title" : "Add support for special events and seasons"
-        },
-        {
-          "category" : "Bug Fixes",
-          "completed" : true,
-          "title" : "More iPad performance improvements on compass tab and my rides"
-        }
-      ],
-      "number" : "2026.06.30",
-      "status" : "shipped",
-      "totalCount" : 12
+      "totalCount" : 11
     },
     {
       "completedCount" : 8,
       "items" : [
+        {
+          "category" : "New Features",
+          "completed" : false,
+          "title" : "Supplement crowd calendars with actual info from our own database"
+        },
+        {
+          "category" : "New Features",
+          "completed" : false,
+          "title" : "Add alternate icons/seasonal icons Unlock with IAP"
+        },
+        {
+          "category" : "New Features",
+          "completed" : false,
+          "title" : "Manual start of background location?"
+        },
         {
           "category" : "New Features",
           "completed" : true,
@@ -545,11 +575,41 @@
       ],
       "number" : "2026.06.15",
       "status" : "shipped",
-      "totalCount" : 8
+      "totalCount" : 11
     },
     {
       "completedCount" : 10,
       "items" : [
+        {
+          "category" : "New Features",
+          "completed" : false,
+          "title" : "Supplement crowd calendars with actual info from our own database"
+        },
+        {
+          "category" : "New Features",
+          "completed" : false,
+          "title" : "Add multi-day trips creation and better date picker for future/past"
+        },
+        {
+          "category" : "New Features",
+          "completed" : false,
+          "title" : "Manual start of background location?"
+        },
+        {
+          "category" : "New Features",
+          "completed" : false,
+          "title" : "Support for shows (in my rides show the next time)"
+        },
+        {
+          "category" : "New Features",
+          "completed" : false,
+          "title" : "Annual passport features"
+        },
+        {
+          "category" : "New Features",
+          "completed" : false,
+          "title" : "Add pin trading collection"
+        },
         {
           "category" : "New Features",
           "completed" : true,
@@ -603,11 +663,31 @@
       ],
       "number" : "2026.06.01",
       "status" : "shipped",
-      "totalCount" : 10
+      "totalCount" : 16
     },
     {
       "completedCount" : 10,
       "items" : [
+        {
+          "category" : "New Features",
+          "completed" : false,
+          "title" : "Add Pin trading/collection"
+        },
+        {
+          "category" : "New Features",
+          "completed" : false,
+          "title" : "Move away from old backend for Live Activity"
+        },
+        {
+          "category" : "New Features",
+          "completed" : false,
+          "title" : "Add multi-day trips creation and better date picker for future/past"
+        },
+        {
+          "category" : "Fixes & Improvements",
+          "completed" : false,
+          "title" : "Add search in the game over/under"
+        },
         {
           "category" : "New Features",
           "completed" : true,
@@ -661,11 +741,21 @@
       ],
       "number" : "2026.05.20",
       "status" : "shipped",
-      "totalCount" : 10
+      "totalCount" : 14
     },
     {
       "completedCount" : 12,
       "items" : [
+        {
+          "category" : "Fixes & Improvements",
+          "completed" : false,
+          "title" : "Mark rides as suspended on the watch + plus improve watch complications"
+        },
+        {
+          "category" : "Fixes & Improvements",
+          "completed" : false,
+          "title" : "Move away from old backend for Live Activity"
+        },
         {
           "category" : "Fixes & Improvements",
           "completed" : true,
@@ -729,7 +819,7 @@
       ],
       "number" : "2026.05.11",
       "status" : "shipped",
-      "totalCount" : 12
+      "totalCount" : 14
     }
   ]
 }
