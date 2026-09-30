@@ -10,17 +10,12 @@
     {
       "category" : "New Features",
       "completed" : false,
-      "title" : "Annual passport features"
-    },
-    {
-      "category" : "New Features",
-      "completed" : false,
       "title" : "Add multi-day trips creation and better date picker for future/past"
     },
     {
       "category" : "New Features",
       "completed" : false,
-      "title" : "Supplement crowd calendars with actual info from our own database"
+      "title" : "Localise app is more languages: Spanish, Italian, French, German"
     },
     {
       "category" : "New Features",
@@ -61,10 +56,10 @@
   "liveVersion" : "2026.09.12",
   "name" : "Ride Radar for Theme Parks",
   "schemaVersion" : 1,
-  "updatedAt" : "2026-09-30T15:20:30Z",
+  "updatedAt" : "2026-09-30T17:25:20Z",
   "versions" : [
     {
-      "completedCount" : 8,
+      "completedCount" : 11,
       "items" : [
         {
           "category" : "New Features",
@@ -85,21 +80,6 @@
           "category" : "New Features",
           "completed" : false,
           "title" : "Add early / magic entry to widget"
-        },
-        {
-          "category" : "Fixes & Improvements",
-          "completed" : false,
-          "title" : "Speed up first loading of alerts in app for restaurants"
-        },
-        {
-          "category" : "Fixes & Improvements",
-          "completed" : false,
-          "title" : "Visually improve list and only keep the latest notifications for each alert"
-        },
-        {
-          "category" : "Fixes & Improvements",
-          "completed" : false,
-          "title" : "Creating a restaurant alert from a specific restaurant page should create a new my day like Surprise me does (including all parks represented in My Rides)"
         },
         {
           "category" : "New Features",
@@ -134,12 +114,27 @@
         {
           "category" : "New Features",
           "completed" : true,
-          "title" : "Restaurants alerts"
+          "title" : "Check Apple Watch app improvements"
+        },
+        {
+          "category" : "Fixes & Improvements",
+          "completed" : true,
+          "title" : "Speed up first loading of alerts in app for restaurants"
+        },
+        {
+          "category" : "Fixes & Improvements",
+          "completed" : true,
+          "title" : "Visually improve list and only keep the latest notifications for each alert"
         },
         {
           "category" : "New Features",
           "completed" : true,
-          "title" : "Check Apple Watch app improvements"
+          "title" : "Restaurants alerts"
+        },
+        {
+          "category" : "Fixes & Improvements",
+          "completed" : true,
+          "title" : "Creating a restaurant alert from a specific restaurant page should create a new my day like Surprise me does (including all parks represented in My Rides)"
         }
       ],
       "number" : "2026.10.23",
@@ -149,11 +144,6 @@
     {
       "completedCount" : 13,
       "items" : [
-        {
-          "category" : "New Features",
-          "completed" : true,
-          "title" : "Add alternate icons/seasonal icons"
-        },
         {
           "category" : "Fixes & Improvements",
           "completed" : true,
@@ -177,12 +167,17 @@
         {
           "category" : "Bug Fixes",
           "completed" : true,
-          "title" : "iPad shows and restaurants buttons"
+          "title" : "Check why German name of ride is shown in planned closures? Also check the frequency of refresh of data"
         },
         {
           "category" : "Bug Fixes",
           "completed" : true,
-          "title" : "Check why German name of ride is shown in planned closures? Also check the frequency of refresh of data"
+          "title" : "iPad shows and restaurants buttons"
+        },
+        {
+          "category" : "Fixes & Improvements",
+          "completed" : true,
+          "title" : "Move away from old backend for Live Activity"
         },
         {
           "category" : "Fixes & Improvements",
