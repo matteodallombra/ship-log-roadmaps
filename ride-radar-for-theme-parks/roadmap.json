@@ -61,7 +61,7 @@
   "liveVersion" : "2026.09.12",
   "name" : "Ride Radar for Theme Parks",
   "schemaVersion" : 1,
-  "updatedAt" : "2026-09-30T15:14:17Z",
+  "updatedAt" : "2026-09-30T15:17:57Z",
   "versions" : [
     {
       "completedCount" : 8,
@@ -95,6 +95,11 @@
           "category" : "Fixes & Improvements",
           "completed" : false,
           "title" : "Visually improve list and only keep the latest notifications for each alert"
+        },
+        {
+          "category" : "Fixes & Improvements",
+          "completed" : false,
+          "title" : "Creating a restaurant alert from a specific restaurant page should create a new my day like Surprise me does (including all parks represented in My Rides)"
         },
         {
           "category" : "New Features",
@@ -139,7 +144,7 @@
       ],
       "number" : "2026.10.23",
       "status" : "active",
-      "totalCount" : 14
+      "totalCount" : 15
     },
     {
       "completedCount" : 13,
