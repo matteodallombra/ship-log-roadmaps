@@ -61,10 +61,10 @@
   "liveVersion" : "2026.09.12",
   "name" : "Ride Radar for Theme Parks",
   "schemaVersion" : 1,
-  "updatedAt" : "2026-09-30T15:10:41Z",
+  "updatedAt" : "2026-09-30T15:13:28Z",
   "versions" : [
     {
-      "completedCount" : 7,
+      "completedCount" : 8,
       "items" : [
         {
           "category" : "New Features",
@@ -75,11 +75,6 @@
           "category" : "New Features",
           "completed" : false,
           "title" : "Add log a ride inside each ride page / my rides tab"
-        },
-        {
-          "category" : "New Features",
-          "completed" : false,
-          "title" : "Restaurants alerts"
         },
         {
           "category" : "New Features",
@@ -130,6 +125,11 @@
           "category" : "Fixes & Improvements",
           "completed" : true,
           "title" : "Fix Pirates game"
+        },
+        {
+          "category" : "New Features",
+          "completed" : true,
+          "title" : "Restaurants alerts"
         },
         {
           "category" : "New Features",
