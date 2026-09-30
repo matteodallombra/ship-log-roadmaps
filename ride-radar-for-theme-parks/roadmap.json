@@ -1,6 +1,6 @@
 {
   "appStoreURL" : "https://apps.apple.com/gb/app/ride-radar-for-theme-parks/id6756741518?uo=4",
-  "iconURL" : "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/49/62/ac/4962ac72-fccc-2dbe-3257-394d347a0be4/AppIcon-0-0-1x_U007epad-0-1-sRGB-85-220.png/512x512bb.jpg",
+  "iconURL" : "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/45/23/85/45238539-cf5b-a02e-c6b7-e993b041c930/AppIcon-0-0-1x_U007epad-0-1-0-sRGB-85-220.png/512x512bb.jpg",
   "ideas" : [
     {
       "category" : "Fixes & Improvements",
@@ -21,11 +21,6 @@
       "category" : "New Features",
       "completed" : false,
       "title" : "Supplement crowd calendars with actual info from our own database"
-    },
-    {
-      "category" : "New Features",
-      "completed" : false,
-      "title" : "Localise app is more languages: Spanish, Italian, French, German"
     },
     {
       "category" : "New Features",
@@ -63,89 +58,11 @@
       "title" : "Update app screenshots"
     }
   ],
-  "liveVersion" : "2026.06.15",
+  "liveVersion" : "2026.09.12",
   "name" : "Ride Radar for Theme Parks",
   "schemaVersion" : 1,
-  "updatedAt" : "2026-09-30T14:43:58Z",
+  "updatedAt" : "2026-09-30T15:00:23Z",
   "versions" : [
-    {
-      "completedCount" : 9,
-      "items" : [
-        {
-          "category" : "Bug Fixes",
-          "completed" : false,
-          "title" : "Check why German name of ride is shown in planned closures? Also check the frequency of refresh of data"
-        },
-        {
-          "category" : "Fixes & Improvements",
-          "completed" : false,
-          "title" : "Move away from old backend for Live Activity"
-        },
-        {
-          "category" : "Fixes & Improvements",
-          "completed" : false,
-          "title" : "Improve cloudflare data storage for park history"
-        },
-        {
-          "category" : "New Features",
-          "completed" : false,
-          "title" : "Add RideRadar Instagram account in settings - move the socials above the tips - rework the social segment - more compact icons"
-        },
-        {
-          "category" : "Fixes & Improvements",
-          "completed" : false,
-          "title" : "Move park filters into the main preferences group"
-        },
-        {
-          "category" : "New Features",
-          "completed" : true,
-          "title" : "Add alternate icons/seasonal icons"
-        },
-        {
-          "category" : "Fixes & Improvements",
-          "completed" : true,
-          "title" : "Add tappable info for Shows too"
-        },
-        {
-          "category" : "Fixes & Improvements",
-          "completed" : true,
-          "title" : "Center links in More to Discover"
-        },
-        {
-          "category" : "Fixes & Improvements",
-          "completed" : true,
-          "title" : "Order shows by show times in my rides"
-        },
-        {
-          "category" : "Bug Fixes",
-          "completed" : true,
-          "title" : "iPad is not smooth"
-        },
-        {
-          "category" : "Bug Fixes",
-          "completed" : true,
-          "title" : "iPad shows and restaurants buttons"
-        },
-        {
-          "category" : "Fixes & Improvements",
-          "completed" : true,
-          "title" : "Check planned closure"
-        },
-        {
-          "category" : "New Features",
-          "completed" : true,
-          "title" : "Add support for special events and seasons"
-        },
-        {
-          "category" : "Bug Fixes",
-          "completed" : true,
-          "title" : "More iPad performance improvements on compass tab and my rides"
-        }
-      ],
-      "number" : "2026.06.30",
-      "status" : "active",
-      "totalCount" : 14
-    },
     {
       "completedCount" : 7,
       "items" : [
@@ -223,6 +140,79 @@
       "number" : "2026.10.23",
       "status" : "active",
       "totalCount" : 14
+    },
+    {
+      "completedCount" : 13,
+      "items" : [
+        {
+          "category" : "New Features",
+          "completed" : true,
+          "title" : "Add alternate icons/seasonal icons"
+        },
+        {
+          "category" : "Fixes & Improvements",
+          "completed" : true,
+          "title" : "Add tappable info for Shows too"
+        },
+        {
+          "category" : "Fixes & Improvements",
+          "completed" : true,
+          "title" : "Center links in More to Discover"
+        },
+        {
+          "category" : "Fixes & Improvements",
+          "completed" : true,
+          "title" : "Order shows by show times in my rides"
+        },
+        {
+          "category" : "Bug Fixes",
+          "completed" : true,
+          "title" : "iPad is not smooth"
+        },
+        {
+          "category" : "Bug Fixes",
+          "completed" : true,
+          "title" : "iPad shows and restaurants buttons"
+        },
+        {
+          "category" : "Bug Fixes",
+          "completed" : true,
+          "title" : "Check why German name of ride is shown in planned closures? Also check the frequency of refresh of data"
+        },
+        {
+          "category" : "Fixes & Improvements",
+          "completed" : true,
+          "title" : "Check planned closure"
+        },
+        {
+          "category" : "Fixes & Improvements",
+          "completed" : true,
+          "title" : "Improve cloudflare data storage for park history"
+        },
+        {
+          "category" : "New Features",
+          "completed" : true,
+          "title" : "Add support for special events and seasons"
+        },
+        {
+          "category" : "New Features",
+          "completed" : true,
+          "title" : "Add RideRadar Instagram account in settings - move the socials above the tips - rework the social segment - more compact icons"
+        },
+        {
+          "category" : "Bug Fixes",
+          "completed" : true,
+          "title" : "More iPad performance improvements on compass tab and my rides"
+        },
+        {
+          "category" : "Fixes & Improvements",
+          "completed" : true,
+          "title" : "Move park filters into the main preferences group"
+        }
+      ],
+      "number" : "2026.06.30",
+      "status" : "shipped",
+      "totalCount" : 13
     },
     {
       "completedCount" : 16,
