@@ -2,12 +2,16 @@
   "appStoreURL" : "https://apps.apple.com/us/app/ship-log/id6765871950?uo=4",
   "iconURL" : "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/5a/90/6f/5a906fa8-bee3-0bd9-429b-db4f5e591e44/AppIcon-0-0-1x_U007epad-0-1-85-220.png/512x512bb.jpg",
   "ideas" : [
-
+    {
+      "category" : "New Features",
+      "completed" : false,
+      "title" : "Integrate with share sheet to be able to create a new item when taking screenshots"
+    }
   ],
   "liveVersion" : "2026.09.28",
   "name" : "Ship Log",
   "schemaVersion" : 1,
-  "updatedAt" : "2026-09-30T06:25:09Z",
+  "updatedAt" : "2026-09-30T06:25:43Z",
   "versions" : [
     {
       "completedCount" : 1,
