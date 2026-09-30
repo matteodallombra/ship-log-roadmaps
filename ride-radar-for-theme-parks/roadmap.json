@@ -46,7 +46,7 @@
   "liveVersion" : "2026.09.12",
   "name" : "Ride Radar for Theme Parks",
   "schemaVersion" : 1,
-  "updatedAt" : "2026-09-29T21:35:34Z",
+  "updatedAt" : "2026-09-30T06:23:54Z",
   "versions" : [
     {
       "completedCount" : 8,
@@ -65,6 +65,16 @@
           "category" : "New Features",
           "completed" : false,
           "title" : "Restaurants alerts"
+        },
+        {
+          "category" : "New Features",
+          "completed" : false,
+          "title" : "Consolidated checks for restaurants"
+        },
+        {
+          "category" : "New Features",
+          "completed" : false,
+          "title" : "Add early / magic entry to widget"
         },
         {
           "category" : "New Features",
@@ -109,7 +119,7 @@
       ],
       "number" : "2026.10.23",
       "status" : "active",
-      "totalCount" : 11
+      "totalCount" : 13
     },
     {
       "completedCount" : 16,
