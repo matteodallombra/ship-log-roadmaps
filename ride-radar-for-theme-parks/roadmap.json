@@ -56,10 +56,10 @@
   "liveVersion" : "2026.09.12",
   "name" : "Ride Radar for Theme Parks",
   "schemaVersion" : 1,
-  "updatedAt" : "2026-09-30T23:24:38Z",
+  "updatedAt" : "2026-10-01T17:19:23Z",
   "versions" : [
     {
-      "completedCount" : 11,
+      "completedCount" : 13,
       "items" : [
         {
           "category" : "New Features",
@@ -74,17 +74,12 @@
         {
           "category" : "New Features",
           "completed" : false,
-          "title" : "Consolidated checks for restaurants"
-        },
-        {
-          "category" : "New Features",
-          "completed" : false,
-          "title" : "Add early entry / magic time to the small/medium widget in the park close mode. Currently we only show the standard opening time"
-        },
-        {
-          "category" : "New Features",
-          "completed" : false,
           "title" : "Add pins support"
+        },
+        {
+          "category" : "Fixes & Improvements",
+          "completed" : false,
+          "title" : "Fix comet icon on widgets in night mode"
         },
         {
           "category" : "New Features",
@@ -140,11 +135,21 @@
           "category" : "Fixes & Improvements",
           "completed" : true,
           "title" : "Creating a restaurant alert from a specific restaurant page should create a new my day like Surprise me does (including all parks represented in My Rides)"
+        },
+        {
+          "category" : "New Features",
+          "completed" : true,
+          "title" : "Consolidated checks for restaurants"
+        },
+        {
+          "category" : "New Features",
+          "completed" : true,
+          "title" : "Add early entry / magic time to the small/medium widget in the park close mode. Currently we only show the standard opening time"
         }
       ],
       "number" : "2026.10.23",
       "status" : "active",
-      "totalCount" : 16
+      "totalCount" : 17
     },
     {
       "completedCount" : 13,
