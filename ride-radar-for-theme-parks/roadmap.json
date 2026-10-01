@@ -56,30 +56,15 @@
   "liveVersion" : "2026.09.12",
   "name" : "Ride Radar for Theme Parks",
   "schemaVersion" : 1,
-  "updatedAt" : "2026-10-01T17:19:23Z",
+  "updatedAt" : "2026-10-01T22:08:27Z",
   "versions" : [
     {
-      "completedCount" : 13,
+      "completedCount" : 16,
       "items" : [
         {
           "category" : "New Features",
           "completed" : false,
           "title" : "Subscription???"
-        },
-        {
-          "category" : "New Features",
-          "completed" : false,
-          "title" : "Add log a ride inside each ride page / my rides tab"
-        },
-        {
-          "category" : "New Features",
-          "completed" : false,
-          "title" : "Add pins support"
-        },
-        {
-          "category" : "Fixes & Improvements",
-          "completed" : false,
-          "title" : "Fix comet icon on widgets in night mode"
         },
         {
           "category" : "New Features",
@@ -145,6 +130,21 @@
           "category" : "New Features",
           "completed" : true,
           "title" : "Add early entry / magic time to the small/medium widget in the park close mode. Currently we only show the standard opening time"
+        },
+        {
+          "category" : "Fixes & Improvements",
+          "completed" : true,
+          "title" : "Fix comet icon on widgets in night mode"
+        },
+        {
+          "category" : "New Features",
+          "completed" : true,
+          "title" : "Add log a ride inside each ride page / my rides tab"
+        },
+        {
+          "category" : "New Features",
+          "completed" : true,
+          "title" : "Add pins support"
         }
       ],
       "number" : "2026.10.23",
