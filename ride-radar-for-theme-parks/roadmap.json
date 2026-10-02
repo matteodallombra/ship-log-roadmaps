@@ -56,11 +56,16 @@
   "liveVersion" : "2026.09.12",
   "name" : "Ride Radar for Theme Parks",
   "schemaVersion" : 1,
-  "updatedAt" : "2026-10-01T22:08:27Z",
+  "updatedAt" : "2026-10-02T17:18:10Z",
   "versions" : [
     {
       "completedCount" : 16,
       "items" : [
+        {
+          "category" : "New Features",
+          "completed" : false,
+          "title" : "Adjust auto search flow for planned closures too"
+        },
         {
           "category" : "New Features",
           "completed" : false,
@@ -149,7 +154,7 @@
       ],
       "number" : "2026.10.23",
       "status" : "active",
-      "totalCount" : 17
+      "totalCount" : 18
     },
     {
       "completedCount" : 13,
