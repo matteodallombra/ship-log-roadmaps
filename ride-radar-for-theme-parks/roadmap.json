@@ -56,7 +56,7 @@
   "liveVersion" : "2026.09.12",
   "name" : "Ride Radar for Theme Parks",
   "schemaVersion" : 1,
-  "updatedAt" : "2026-10-02T17:18:10Z",
+  "updatedAt" : "2026-10-04T07:15:49Z",
   "versions" : [
     {
       "completedCount" : 16,
@@ -70,6 +70,11 @@
           "category" : "New Features",
           "completed" : false,
           "title" : "Subscription???"
+        },
+        {
+          "category" : "New Features",
+          "completed" : false,
+          "title" : "Change crowd report charts in app to match website"
         },
         {
           "category" : "New Features",
@@ -154,7 +159,7 @@
       ],
       "number" : "2026.10.23",
       "status" : "active",
-      "totalCount" : 18
+      "totalCount" : 19
     },
     {
       "completedCount" : 13,
