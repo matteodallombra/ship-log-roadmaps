@@ -56,7 +56,7 @@
   "liveVersion" : "2026.09.12",
   "name" : "Ride Radar for Theme Parks",
   "schemaVersion" : 1,
-  "updatedAt" : "2026-10-04T07:15:49Z",
+  "updatedAt" : "2026-10-05T19:11:15Z",
   "versions" : [
     {
       "completedCount" : 16,
@@ -75,6 +75,16 @@
           "category" : "New Features",
           "completed" : false,
           "title" : "Change crowd report charts in app to match website"
+        },
+        {
+          "category" : "New Features",
+          "completed" : false,
+          "title" : "Magic Key auto dates check"
+        },
+        {
+          "category" : "New Features",
+          "completed" : false,
+          "title" : "Add pin trading events to Pin tab"
         },
         {
           "category" : "New Features",
@@ -159,7 +169,7 @@
       ],
       "number" : "2026.10.23",
       "status" : "active",
-      "totalCount" : 19
+      "totalCount" : 21
     },
     {
       "completedCount" : 13,
