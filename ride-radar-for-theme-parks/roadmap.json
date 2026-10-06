@@ -56,10 +56,10 @@
   "liveVersion" : "2026.09.12",
   "name" : "Ride Radar for Theme Parks",
   "schemaVersion" : 1,
-  "updatedAt" : "2026-10-05T19:11:15Z",
+  "updatedAt" : "2026-10-06T11:54:35Z",
   "versions" : [
     {
-      "completedCount" : 16,
+      "completedCount" : 17,
       "items" : [
         {
           "category" : "New Features",
@@ -70,11 +70,6 @@
           "category" : "New Features",
           "completed" : false,
           "title" : "Subscription???"
-        },
-        {
-          "category" : "New Features",
-          "completed" : false,
-          "title" : "Change crowd report charts in app to match website"
         },
         {
           "category" : "New Features",
@@ -165,6 +160,11 @@
           "category" : "New Features",
           "completed" : true,
           "title" : "Add pins support"
+        },
+        {
+          "category" : "New Features",
+          "completed" : true,
+          "title" : "Change crowd report charts in app to match website"
         }
       ],
       "number" : "2026.10.23",
