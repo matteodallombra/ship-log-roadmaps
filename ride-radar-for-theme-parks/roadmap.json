@@ -15,11 +15,6 @@
     {
       "category" : "New Features",
       "completed" : false,
-      "title" : "Localise app is more languages: Spanish, Italian, French, German"
-    },
-    {
-      "category" : "New Features",
-      "completed" : false,
       "title" : "Live stream with parks info?"
     },
     {
@@ -50,37 +45,27 @@
     {
       "category" : "New Features",
       "completed" : false,
-      "title" : "Update app screenshots"
+      "title" : "Add pin trading events to Pin tab"
+    },
+    {
+      "category" : "New Features",
+      "completed" : false,
+      "title" : "Magic Key auto dates check"
+    },
+    {
+      "category" : "New Features",
+      "completed" : false,
+      "title" : "Adjust auto search flow for planned closures too"
     }
   ],
   "liveVersion" : "2026.09.12",
   "name" : "Ride Radar for Theme Parks",
   "schemaVersion" : 1,
-  "updatedAt" : "2026-10-06T11:54:53Z",
+  "updatedAt" : "2026-10-09T11:03:22Z",
   "versions" : [
     {
-      "completedCount" : 17,
+      "completedCount" : 19,
       "items" : [
-        {
-          "category" : "New Features",
-          "completed" : false,
-          "title" : "Adjust auto search flow for planned closures too"
-        },
-        {
-          "category" : "New Features",
-          "completed" : false,
-          "title" : "Subscription???"
-        },
-        {
-          "category" : "New Features",
-          "completed" : false,
-          "title" : "Magic Key auto dates check"
-        },
-        {
-          "category" : "New Features",
-          "completed" : false,
-          "title" : "Add pin trading events to Pin tab"
-        },
         {
           "category" : "New Features",
           "completed" : true,
@@ -165,11 +150,21 @@
           "category" : "New Features",
           "completed" : true,
           "title" : "Change crowd report charts in app to match website"
+        },
+        {
+          "category" : "New Features",
+          "completed" : true,
+          "title" : "Optimise AppStore assets https://developer.apple.com/app-store/asset-best-practices/"
+        },
+        {
+          "category" : "New Features",
+          "completed" : true,
+          "title" : "Subscriptions"
         }
       ],
       "number" : "2026.10.23",
-      "status" : "active",
-      "totalCount" : 21
+      "status" : "shipped",
+      "totalCount" : 19
     },
     {
       "completedCount" : 13,
