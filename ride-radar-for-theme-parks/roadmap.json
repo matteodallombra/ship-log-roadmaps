@@ -10,7 +10,7 @@
     {
       "category" : "New Features",
       "completed" : false,
-      "title" : "Adjust auto search flow for planned closures too"
+      "title" : "Add ISO from wanted pins list"
     },
     {
       "category" : "Fixes & Improvements",
@@ -61,17 +61,12 @@
       "category" : "New Features",
       "completed" : false,
       "title" : "Magic Key auto dates check"
-    },
-    {
-      "category" : "New Features",
-      "completed" : false,
-      "title" : "Add ISO from wanted pins list"
     }
   ],
   "liveVersion" : "2026.10.231",
   "name" : "Ride Radar for Theme Parks",
   "schemaVersion" : 1,
-  "updatedAt" : "2026-10-14T19:56:36Z",
+  "updatedAt" : "2026-10-14T19:57:06Z",
   "versions" : [
     {
       "completedCount" : 19,
