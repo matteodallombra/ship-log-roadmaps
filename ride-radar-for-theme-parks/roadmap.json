@@ -25,11 +25,6 @@
     {
       "category" : "New Features",
       "completed" : false,
-      "title" : "Share post trip park stats"
-    },
-    {
-      "category" : "New Features",
-      "completed" : false,
       "title" : "Better ride list in past day summary"
     },
     {
@@ -45,18 +40,13 @@
     {
       "category" : "New Features",
       "completed" : false,
-      "title" : "Add pin trading events to Pin tab"
-    },
-    {
-      "category" : "New Features",
-      "completed" : false,
       "title" : "Magic Key auto dates check"
     }
   ],
   "liveVersion" : "2026.10.231",
   "name" : "Ride Radar for Theme Parks",
   "schemaVersion" : 1,
-  "updatedAt" : "2026-10-19T18:05:49Z",
+  "updatedAt" : "2026-10-19T18:06:16Z",
   "versions" : [
     {
       "completedCount" : 0,
@@ -70,11 +60,21 @@
           "category" : "New Features",
           "completed" : false,
           "title" : "Add ISO from wanted pins list"
+        },
+        {
+          "category" : "New Features",
+          "completed" : false,
+          "title" : "Share post trip park stats"
+        },
+        {
+          "category" : "New Features",
+          "completed" : false,
+          "title" : "Add pin trading events to Pin tab"
         }
       ],
       "number" : "2026.11.01",
       "status" : "active",
-      "totalCount" : 2
+      "totalCount" : 4
     },
     {
       "completedCount" : 1,
