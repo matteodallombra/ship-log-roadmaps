@@ -66,16 +66,20 @@
   "liveVersion" : "2026.10.231",
   "name" : "Ride Radar for Theme Parks",
   "schemaVersion" : 1,
-  "updatedAt" : "2026-10-19T14:04:44Z",
+  "updatedAt" : "2026-10-19T14:05:11Z",
   "versions" : [
     {
       "completedCount" : 0,
       "items" : [
-
+        {
+          "category" : "Bug Fixes",
+          "completed" : false,
+          "title" : "Fixed crowd estimates"
+        }
       ],
       "number" : "2026.10.24",
       "status" : "active",
-      "totalCount" : 0
+      "totalCount" : 1
     },
     {
       "completedCount" : 19,
