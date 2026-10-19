@@ -66,8 +66,17 @@
   "liveVersion" : "2026.10.231",
   "name" : "Ride Radar for Theme Parks",
   "schemaVersion" : 1,
-  "updatedAt" : "2026-10-19T14:04:16Z",
+  "updatedAt" : "2026-10-19T14:04:44Z",
   "versions" : [
+    {
+      "completedCount" : 0,
+      "items" : [
+
+      ],
+      "number" : "2026.10.24",
+      "status" : "active",
+      "totalCount" : 0
+    },
     {
       "completedCount" : 19,
       "items" : [
