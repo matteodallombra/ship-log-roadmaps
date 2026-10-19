@@ -3,11 +3,6 @@
   "iconURL" : "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/e3/67/ab/e367abe7-c3f2-e323-4293-1072044e7bbe/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/512x512bb.jpg",
   "ideas" : [
     {
-      "category" : "New Features",
-      "completed" : false,
-      "title" : "Add ISO from wanted pins list"
-    },
-    {
       "category" : "Fixes & Improvements",
       "completed" : false,
       "title" : "Manual start of background location?"
@@ -61,7 +56,7 @@
   "liveVersion" : "2026.10.231",
   "name" : "Ride Radar for Theme Parks",
   "schemaVersion" : 1,
-  "updatedAt" : "2026-10-19T18:05:07Z",
+  "updatedAt" : "2026-10-19T18:05:49Z",
   "versions" : [
     {
       "completedCount" : 0,
@@ -70,11 +65,16 @@
           "category" : "New Features",
           "completed" : false,
           "title" : "Save the time when logging a ride, present the list by time"
+        },
+        {
+          "category" : "New Features",
+          "completed" : false,
+          "title" : "Add ISO from wanted pins list"
         }
       ],
       "number" : "2026.11.01",
       "status" : "active",
-      "totalCount" : 1
+      "totalCount" : 2
     },
     {
       "completedCount" : 1,
