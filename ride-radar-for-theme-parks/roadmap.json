@@ -46,7 +46,7 @@
   "liveVersion" : "2026.10.231",
   "name" : "Ride Radar for Theme Parks",
   "schemaVersion" : 1,
-  "updatedAt" : "2026-10-20T10:06:54Z",
+  "updatedAt" : "2026-10-20T10:07:18Z",
   "versions" : [
     {
       "completedCount" : 0,
@@ -69,7 +69,7 @@
         {
           "category" : "New Features",
           "completed" : false,
-          "title" : "Add pin trading events to Pin tab"
+          "title" : "Add pin trading events to Pin tab with push notifications and settings for location filters"
         }
       ],
       "number" : "2026.11.01",
